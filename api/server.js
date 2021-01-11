@@ -1,5 +1,4 @@
 const express = require("express");
-const { update } = require("./user-model");
 
 const User = require("./user-model");
 
